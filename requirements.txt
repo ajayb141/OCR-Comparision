@@ -1,0 +1,8 @@
+keras==2.15.0
+keras-ocr==0.9.3
+tf_keras==2.15.1
+pytesseract==0.3.10
+paddleocr==2.7.3
+paddlepaddle-gpu==2.6.1
+easyocr==10.3.0
+pillow==10.3.0
